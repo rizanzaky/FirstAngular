@@ -12,3 +12,8 @@ h2, h3 {
 body {
   margin: 2em;
 }
+ul li {
+	line-height: 1.5;
+	font-family: verdana;
+	color: #4d4d8d;
+}
