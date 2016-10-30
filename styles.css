@@ -17,3 +17,32 @@ ul li {
 	font-family: verdana;
 	color: #4d4d8d;
 }
+p {
+	font-size: 18px;
+	font-family: tahoma;
+	color: #3e3e3e;
+}
+button {
+	padding: 5px 10px;
+	border: 1px solid black;
+	color: white;
+	background: gray;
+	font-family: tahoma;
+	font-size: 14px;
+}
+button:hover {
+    background: black;
+    cursor: pointer;
+}
+button:active {
+    background: #cecaca;
+    color: black;
+    top: 2px;
+    left: 2px;
+    position: relative;
+}
+input {
+	padding: 5px;
+	font-size: 14px;
+	border: 1px solid #16599b;
+}
